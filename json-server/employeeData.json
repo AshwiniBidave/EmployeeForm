@@ -1,0 +1,18 @@
+{
+    "employees": [
+      {
+        "_name": "Harry Potter",
+        "_id": 1641542710630,
+        "_profilePic": "Ellipse-2",
+        "_gender": "female",
+        "_salary": "843695",
+        "_notes": "",
+        "_department": [
+          "Finance",
+          "Engineer"
+        ],
+        "_startDate": "29-12-2021",
+        "id": 1
+      }
+    ]
+  }
